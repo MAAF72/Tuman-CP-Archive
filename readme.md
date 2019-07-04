@@ -18,4 +18,4 @@ Tuman Competitive Programming Archive.
 
 #### Qualification Round (8 Problems)
 
-##### Tuman (Rank 14, Solved 7) **finalist**
+##### - Tuman (Rank 14, Solved 7) **finalist**
